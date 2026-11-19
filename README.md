@@ -6,7 +6,7 @@
 
 参赛作品：群核科技 Aholo 全球 3D AI 黑客松
 
-- 在线体验：https://modelscope.cn/studios/elena98/magicbook
+- 在线体验：https://magiclibrary-xi.vercel.app/
 - 本地运行：`static/` 就是完整的网站，任意静态服务器都能打开，例如 `cd static && python -m http.server 8000`
 
 ## 玩法
